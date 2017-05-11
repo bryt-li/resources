@@ -1,0 +1,2 @@
+# resources
+static resources
